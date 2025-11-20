@@ -53,3 +53,5 @@ nohup.out
 **/.vite/
 # 前端代码（不忽略）
 !original-yudao-ui/
+/yudao.iml
+/yudao-server/yudao-server.iml
